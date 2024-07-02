@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cursos-416907",
+  "private_key_id": "88542046368386fd2533cfa229df61632e6738d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAYXO8sGkoUmFD\nHmPI83zhWguoMtE55qZTKukTX3G9anu2ohSYVF+/CXqXn+Hw6vu8l83SNnbErhs9\nR2Fo6AThRg/cUdVRu8FdHvRatxa/LgHDnLS7vFJGUfk9SeQMsVhE7eyuwbADqcGe\nOzT/+Mpn5LaIV6v1bJz/3PSc1PIg2V8OsGIZs8F3m0Y7n53KY4et5HqJAwtAAZWT\nnbS+zjp17cHCSkVIjdSbwpZjzpIaGUPsMxw951CmG7P9qNYbPm0+qPIqhwrs9OBK\nXEW/hm386q4iLwi3nJPEyZYCALOhF0DiLyEbz57BlEWlANhvRPV72LUQQgFgTQ5E\nKsO/K+HvAgMBAAECggEAHytK31NCXmGRLO44uD9W8tiuKHy/RbR3KzoPFEVI/ime\nogBQT5PlWrl+7spdMYro6W07pXzkhkjif0MC5xvRupapjYaGsNziNHkGRHJYkaCz\nHCMrbHqpETKegU2+UJ4lJoSD7evSCEM8lwCRvY1CF04ePX3djasgzsWuWNXu5YpP\n1jfc4znhthuk1G9c0DrqKnRk1a3l6ew7E2hYaC1b7gFryLMN+nEHgHjA1jQcgqsJ\nOki1dEZpFd6l+KskqeCT76h6GIWBdWf6U+q/na+1UGz+gKIecaJyN6wOxOXjNDEM\ntHFyQOjYFVIgFO2Vu6UNwrqJylqmx8fKRy1bS7y1MQKBgQDfGcGd9Hmgs+nED6qa\nnstgpp+2HT8DJ12BKymOYew8ZY4CI7E4JHAHLQRqT5AWwd+X4tKDnwkidg0gkC/L\nkVMa2c5FL2pFktxUO51S856LA2dr71aT5BcSuVuzS6quek+i7e1MrftCyMqZ11P9\nKcZKyCXi0GboWC8mr4K57WI2MQKBgQDcv/29X1teXmiIv2o5LoCJGwA7kq5c5OTp\nGIQhhz65N9plLWpELvYn0tTyxotFEz4VI4q0t3qimSpNQME2nmHp3nkogKlDHi5V\nIWB0N/H9EOpt7i6y2aXjChSb7GbvQQdt/PsvEZBMR9Bod8z+qrlkYBpukyboQWx2\n45qofZ3yHwKBgQCa8fxyg3RllA5qyKaoNFjzi0Wo6a71tcVPDHcUGBZF7BIwkjFm\n2IeltDI404EzDPsJNdMW7sEdWffMAdfv/cJGB7cmfcPFBjZXmf+tuN0Hlxmg8Nyk\nYelUa7+wSoEEJJZihfQlKUA0Jdfv+Iiwbu70yQTm/e46t+QnbgXQs3leQQKBgQCu\nNpLAxiWshyNGcJIbSJjGG1oGqc8Tns0NLHzynPKiZ/LikIHiB5HagefvJUO6IuKG\n+kK4NmkBM5GP4D/bpAkv8ZR6o3dxcbstEic18QT4LEZmtWeDXIMvd8AmAd6GiTKc\n2d8+GUVg/ff6yjks7n1bOwEBLP6yoxc/iIaA3IovDwKBgEWtrotWanafNyCSU6ob\n74L1YgmQzbQu2M/fbyoQvUDallwU8LdvJQ1I/nPfYAF/EJAQTLzYxbUGzs0YOY0H\n+yTXJDM/2cp7BsxWjv0R8E0i/Qa7wnaBypv8TnMZXgZcCK2k68bOWxHkt7gCqt+Z\nuvlczzyeLoaHDMqRC4ohHkhu\n-----END PRIVATE KEY-----\n",
+  "client_email": "ecommerce-tableau@cursos-416907.iam.gserviceaccount.com",
+  "client_id": "105765220839555246771",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ecommerce-tableau%40cursos-416907.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
